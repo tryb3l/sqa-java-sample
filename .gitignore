@@ -1,0 +1,9 @@
+.idea
+.vscode
+/target
+sqa-sample.iml
+.prettierrc.yml
+*.json
+.classpath
+.factorypath
+.settings/*
