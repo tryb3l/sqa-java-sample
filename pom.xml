@@ -13,7 +13,7 @@
 		<allure.tng.version>2.13.2</allure.tng.version>
 		<phantomjs.version>1.4.4</phantomjs.version>
 		<selenium.j.ver>3.141.59</selenium.j.ver>
-		<log4j.ver>2.13.1</log4j.ver>
+		<log4j.ver>2.13.3</log4j.ver>
 		<commonsio>2.6</commonsio>
 		<html.unit>2.39.0</html.unit>
 		<ext.reports>4.1.4</ext.reports>
